@@ -1,0 +1,14 @@
+Sample Output
+
+Enter number of tasks: 3
+Enter name of task 1: TV
+Enter priority of task 1: 3
+Enter name of task 2: HOMEWORK
+Enter priority of task 2: 1
+Enter name of task 3: PLAY
+Enter priority of task 3: 2
+
+Task Execution Order:
+HOMEWORK (Priority: 1)
+PLAY (Priority: 2)
+TV (Priority: 3)
